@@ -5,9 +5,9 @@ Hi! Here you can find projects that I prepared for presenting my skills in web d
 Most important used technologies: 
 - React (Create React App)
 - Typescript
-- Redux
+- Redux (Redux Toolkit)
 - Material
-- dart-sass
+- sass
 - formik, yup
 - axios
 - react-resizable
@@ -17,6 +17,6 @@ Repository:
 
 [https://github.com/haggifer/uno-to-do](https://github.com/haggifer/uno-to-do)
 
-Published app:
+Working app:
 
-[link text](article-name.md)
+[https://haggifer.github.io/uno-to-do/](https://haggifer.github.io/uno-to-do/)
