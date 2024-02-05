@@ -2,7 +2,7 @@ On this page you will find projects I prepared for presenting my skills in web d
 
 If you have any questions about any of the projects presented here - feel free to contact me by email (katmiale@gmail.com), with LinkedIn (www.linkedin.com/in/michael-katskiy-b385401a0), or by any other way convenient for you.
 
-### Test Assignment 1
+### Test Task 1
 
 App created to demonstrate skills of proper implementation of getting and rendering data received from the API. Also
 includes implementation of search, sorting, and pagination.
@@ -26,7 +26,7 @@ Working app:
 
 https://test-task1-chi-ruby.vercel.app/
 
-### Test Assignment 2
+### Test Task 2
 
 App created to demonstrate skills of creating complex responsive layouts using React and SCSS modules.
 
@@ -46,7 +46,7 @@ Working app:
 
 https://test-task2-lime.vercel.app/
 
-### Test Assignment 3
+### Test Task 3
 
 App created to demonstrate skills of lazy loading components implementation in React using dynamic imports, React.lazy, and <React.Suspense>. Utilizes serverless API built with MongoDB and Vercel Serverless Functions integration.
 
@@ -68,7 +68,7 @@ Working app:
 
 https://test-task3-cherry.vercel.app/
 
-### Test Assignment 4
+### Test Task 4
 
 App created to demonstrate skills of creating complex responsive layouts using React, Material UI and SCSS modules.
 
