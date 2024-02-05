@@ -48,17 +48,17 @@ https://test-task2-lime.vercel.app/
 
 ### Test Assignment 3
 
-App created to demonstrate skills of creating complex responsive layouts using React, Material UI and SCSS modules.
+App created to demonstrate skills of lazy loading components implementation in React using dynamic imports, React.lazy, and <React.Suspense>. Utilizes serverless API built with MongoDB and Vercel Serverless Functions integration.
 
 Used technologies:
 - React (Create React App, Hooks, React Router)
+- Serverless API (Vercel Serverless Functions + MongoDB)
 - Typescript
-- Material UI
-- SCSS (SCSS modules)
-- Formik, Yup
-- React Select
+- Redux (Redux Toolkit)
+- SCSS (SCSS Modules)
 - Axios
 - ESLint, Prettier
+- Lodash
 
 Repository:
 
@@ -66,7 +66,7 @@ https://github.com/haggifer/test-task3
 
 Working app:
 
-https://test-task3-grape.vercel.app/
+https://test-task3-cherry.vercel.app/
 
 ### Test Assignment 4
 
@@ -89,25 +89,3 @@ https://github.com/haggifer/test-task4
 Working app:
 
 https://test-task4-gold-one.vercel.app/
-
-### Test Assignment 5
-
-App created to demonstrate skills of lazy loading components implementation in React using dynamic imports, React.lazy, and <React.Suspense>. Utilizes serverless API built with MongoDB and Vercel Serverless Functions integration.
-
-Used technologies:
-- React (Create React App, Hooks, React Router)
-- Serverless API (Vercel Serverless Functions + MongoDB)
-- Typescript
-- Redux (Redux Toolkit)
-- SCSS (SCSS Modules)
-- Axios
-- ESLint, Prettier
-- Lodash
-
-Repository:
-
-https://github.com/haggifer/test-task5
-
-Working app:
-
-https://test-task5-31ao.vercel.app/
