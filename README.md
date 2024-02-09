@@ -89,3 +89,28 @@ https://github.com/haggifer/test-task4
 Working app:
 
 https://test-task4-gold-one.vercel.app/
+
+### Test Task 5
+
+App created to demonstrate skills of creating complex responsive layouts using React, Material UI and SCSS modules.
+
+Used technologies:
+- React (Create React App, Hooks, React Router)
+- Typescript
+- Zustand
+- Material UI
+- SCSS
+- React Select
+- Axios, SWR
+- Formik, Yup
+- ESLint, Prettier
+- Jest, React Testing Library
+- Lodash
+
+Repository:
+
+https://github.com/haggifer/test-task5
+
+Working app:
+
+https://test-task5-pineapple.vercel.app/
