@@ -17,6 +17,7 @@ Used technologies:
 - React Select
 - Axios
 - ESLint, Prettier
+- Jest, React Testing Library
 
 Repository:
 
@@ -37,6 +38,7 @@ Used technologies:
 - Formik, Yup
 - React Select
 - ESLint, Prettier
+- Jest, React Testing Library
 
 Repository:
 
@@ -59,6 +61,7 @@ Used technologies:
 - Axios
 - ESLint, Prettier
 - Lodash
+- Jest, React Testing Library
 
 Repository:
 
@@ -104,8 +107,8 @@ Used technologies:
 - Axios, SWR
 - Formik, Yup
 - ESLint, Prettier
-- Jest, React Testing Library
 - Lodash
+- Jest, React Testing Library
 
 Repository:
 
